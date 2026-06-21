@@ -24,19 +24,24 @@ to detect hand gestures and convert them into presentation controls like:
 ✅ Works directly from laptop webcam
 ✅ No additional hardware required
 ✅ Beginner-friendly AI + Computer Vision project
+✅ Screenshot Gesture
+✅ Open Google Slides Gesture
+✅ Enhanced Hand Tracking Visualization
+✅ Windows Support (F5 Slideshow)
 
 ---
 
 # 🧠 Gesture Controls
 
-| Gesture          | Action          |
-| ---------------- | --------------- |
-| ✋ Open Palm      | Next Slide      |
-| 🤟 Three Fingers | Previous Slide  |
-| ✌️ Two Fingers   | Start Slideshow |
-| ✊ Fist           | Exit Slideshow  |
+| Gesture       | Action             |
+| ------------- | ------------------ |
+| 🖐️ 5 Fingers | Open Google Slides |
+| ✋ 4 Fingers   | Next Slide         |
+| 🤟 3 Fingers  | Previous Slide     |
+| ✌️ 2 Fingers  | Start Slideshow    |
+| ☝️ 1 Finger   | Screenshot         |
+| ✊ Fist        | Exit Slideshow     |
 
----
 
 # 🛠️ Technologies Used
 
