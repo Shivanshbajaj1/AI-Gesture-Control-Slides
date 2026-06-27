@@ -220,5 +220,6 @@ Use this project during:
 # 👨‍💻 Built With AI + Computer Vision
 
 A futuristic interaction system powered by hand tracking and real-time gesture recognition.
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivansh%20Bajaj-blue?style=for-the-badge&logo=linkedin&logoColor=w
   hite)](https://www.linkedin.com/in/shivansh-bajaj-a433b7371/)
